@@ -1,0 +1,22 @@
+body {
+  /* background-image: url("/redox.png");  */
+  font-family: 'Nunito', sans-serif;
+ }
+
+#profile {
+  min-height: 100%;
+}
+
+.bg-laravel {
+  background-color: red;
+}
+
+.bg-mysql {
+  background-color: #024492;
+  color: #ffffff;
+}
+
+.bg-bootstrap {
+  background-color: #6004A9;
+  color: #ffffff;
+}
