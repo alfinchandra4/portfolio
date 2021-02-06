@@ -14,7 +14,7 @@
   </head>
   <body>
 
-    <div class="container pt-5">
+    <div class="container pt-5 mb-5">
       <div class="row">
         <div class="col-md-4 border-end mb-5">
           <div id="profile" class="p-3">
@@ -39,7 +39,7 @@
             </div>
             <div class="vision ps-4 pe-4 fw-light text-justify" style="font-size: 11pt">
               Web Developer, tertarik mempelajari teknologi baru dan ilmu programming. <br/>
-              Aktif berbagi ilmu di forum internet dan membuat artikel tutorial pemrograman
+              Aktif berbagi seputar programming di forum internet dan membuat artikel tutorial pemrograman
             </div>
             <div class="footer text-muted p-3 mt-5 text-center" style="font-size:9pt">
               Powered by Laravel & Bootstrap &bull; 2021  
